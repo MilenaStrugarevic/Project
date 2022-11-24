@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrangeProject", "OrangeProject\OrangeProject.csproj", "{599DD44C-82FE-4A48-B217-80C76CC4CF7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{599DD44C-82FE-4A48-B217-80C76CC4CF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599DD44C-82FE-4A48-B217-80C76CC4CF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599DD44C-82FE-4A48-B217-80C76CC4CF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599DD44C-82FE-4A48-B217-80C76CC4CF7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF08DA34-420F-4DD7-B16E-338A01191C1D}
+	EndGlobalSection
+EndGlobal
